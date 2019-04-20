@@ -1,0 +1,3 @@
+D:\Desktop\COMP308_GroupProject\COMP308_GroupProject\COMP308_GroupProject\obj\Debug\COMP308_GroupProject.njsprojAssemblyReference.cache
+D:\Desktop\COMP308_GroupProject\COMP308_GroupProject\COMP308_GroupProject\obj\Debug\COMP308_GroupProject.njsproj.CoreCompileInputs.cache
+D:\Desktop\COMP308_GroupProject\COMP308_GroupProject\COMP308_GroupProject\bin\Microsoft.NodejsTools.WebRole.dll

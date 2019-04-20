@@ -36,7 +36,6 @@ exports.signin = function (req, res, next) {
         if (err || !user) {
             res.status(400).send(info);
         } else {
-            // Remove sensitive data before login
             user.password = undefined;
             user.salt = undefined;
 
@@ -52,7 +51,6 @@ exports.signin = function (req, res, next) {
     })(req, res, next);
 };
 
-// Create a new controller method that creates new 'regular' users
 exports.signup = function (req, res) {
     const user = new User(req.body);
     user.provider = 'local';
@@ -89,8 +87,6 @@ exports.signout = function (req, res) {
     res.redirect('/');
 };
 
-//uses the Passport-initiated req.
-//isAuthenticated() method to check whether a User is currently authenticated
 exports.requiresLogin = function (req, res, next) {
     if (!req.isAuthenticated()) {
         return res.status(401).send({
