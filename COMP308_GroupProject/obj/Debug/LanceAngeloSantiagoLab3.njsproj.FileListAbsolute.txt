@@ -1,0 +1,9 @@
+C:\Users\Alvin Laptop\Downloads\CRUDAngular2Test\CRUDAngular2Test\CRUDAngular2Test\obj\Debug\LanceAngeloSantiagoLab3.njsproj.CoreCompileInputs.cache
+C:\Users\Alvin Laptop\Downloads\CRUDAngular2Test\CRUDAngular2Test\CRUDAngular2Test\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Alvin Laptop\Downloads\CRUDAngular2Test\CRUDAngular2Test\CRUDAngular2Test\obj\Debug\LanceAngeloSantiagoLab3.njsprojAssemblyReference.cache
+C:\Users\Alvin Laptop\Downloads\LanceAngeloSantiagoLab3\CRUDAngular2Test\CRUDAngular2Test\obj\Debug\LanceAngeloSantiagoLab3.njsprojAssemblyReference.cache
+C:\Users\Alvin Laptop\Downloads\LanceAngeloSantiagoLab3\CRUDAngular2Test\CRUDAngular2Test\obj\Debug\LanceAngeloSantiagoLab3.njsproj.CoreCompileInputs.cache
+C:\Users\Alvin Laptop\Downloads\LanceAngeloSantiagoLab3\CRUDAngular2Test\CRUDAngular2Test\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Desktop\LanceAngeloSantiagoLab3\CRUDAngular2Test\CRUDAngular2Test\obj\Debug\LanceAngeloSantiagoLab3.njsprojAssemblyReference.cache
+D:\Desktop\LanceAngeloSantiagoLab3\CRUDAngular2Test\CRUDAngular2Test\obj\Debug\LanceAngeloSantiagoLab3.njsproj.CoreCompileInputs.cache
+D:\Desktop\LanceAngeloSantiagoLab3\CRUDAngular2Test\CRUDAngular2Test\bin\Microsoft.NodejsTools.WebRole.dll
